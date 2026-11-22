@@ -1,0 +1,6 @@
+{
+  "name": "Veiligweb Linux Mobile — CI/CD Pipeline & Test Suite",
+  "description": "Geavanceerde CI/CD build pipeline visualizer, C++23/JNI integratietestsuite en workflow generator voor Veiligweb Linux Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
